@@ -5,11 +5,6 @@
 - Blockchain/web3 environment: Ethereum (EVM), Hardhat, Ganache, Truffle, Alchemy, Ethers 
 
 <div>
-  <img align="right" width="250" src="https://imageupload.io/ib/wIaItmxOeTIS1Bm_1694026579.png" alt="wolf-no-bg.png"/>
-</div>
-
-
-<div>
   <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thomasdev5832&theme=tokyonight&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdev5832&layout=compact&theme=tokyonight" />
 </div>
