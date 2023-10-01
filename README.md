@@ -4,7 +4,9 @@
 - Solidity smart contracts
 - Blockchain/web3 environment: Ethereum (EVM), Hardhat, Ganache, Truffle, Alchemy, Ethers 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thomasdev5832&theme=tokyonight)
 <div>
+  
   <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thomasdev5832&theme=tokyonight&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdev5832&layout=compact&theme=tokyonight" />
 </div>
