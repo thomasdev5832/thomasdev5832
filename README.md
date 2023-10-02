@@ -4,15 +4,11 @@
 - Solidity smart contracts
 - Blockchain/web3 environment: Ethereum (EVM), Hardhat, Ganache, Truffle, Alchemy, Ethers 
 
-
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomasdev5832&theme=tokyonight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thomasdev5832&theme=tokyonight&utcOffset=-3)|
 |---|---|
 
-<br />
-
 |![](https://github-readme-streak-stats.herokuapp.com?user=thomasdev5832&theme=tokyonight&mode=weekly)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdev5832&layout=compact&theme=tokyonight)|
 |---|---|
-
 
 #### Tech Stack
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
