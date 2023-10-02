@@ -7,6 +7,8 @@
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomasdev5832&theme=tokyonight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thomasdev5832&theme=tokyonight&utcOffset=-3)|
 |---|---|
+|![](https://github-readme-streak-stats.herokuapp.com?user=thomasdev5832&theme=tokyonight&mode=weekly)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdev5832&layout=compact&theme=tokyonight)|
+|---|---|
 
 <div>
   <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thomasdev5832&theme=tokyonight&mode=weekly" />
