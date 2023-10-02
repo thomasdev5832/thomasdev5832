@@ -7,13 +7,12 @@
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomasdev5832&theme=tokyonight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thomasdev5832&theme=tokyonight&utcOffset=-3)|
 |---|---|
+
+<br />
+
 |![](https://github-readme-streak-stats.herokuapp.com?user=thomasdev5832&theme=tokyonight&mode=weekly)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdev5832&layout=compact&theme=tokyonight)|
 |---|---|
 
-<div>
-  <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thomasdev5832&theme=tokyonight&mode=weekly" />
-  <img width=29% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdev5832&layout=compact&theme=tokyonight" />
-</div>
 
 #### Tech Stack
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
