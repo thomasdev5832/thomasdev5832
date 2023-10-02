@@ -8,7 +8,7 @@
 
 <div>
   <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thomasdev5832&theme=tokyonight&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdev5832&layout=compact&theme=tokyonight" />
+  <img width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdev5832&layout=compact&theme=tokyonight" />
 </div>
 
 #### Tech Stack
