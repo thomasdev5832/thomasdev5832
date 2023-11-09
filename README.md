@@ -1,6 +1,5 @@
 ### Gabriel Thome - Full-Stack / Blockchain Developer 💻
 
-- MERN full-stack development
 - Solidity smart contracts
 - Blockchain/web3 environment: Ethereum (EVM), Hardhat, Ganache, Truffle, Alchemy, Ethers 
 
