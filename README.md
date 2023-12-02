@@ -1,5 +1,6 @@
 ### Gabriel Thome - Full-Stack / Blockchain Developer 💻
 
+- Full-Stack Developer
 - Solidity smart contracts
 - Blockchain/web3 environment: Ethereum (EVM), Hardhat, Ganache, Truffle, Alchemy, Ethers 
 
