@@ -2,7 +2,7 @@
 
 - Full-Stack Developer
 - Solidity smart contracts
-- Blockchain/web3 environment: Ethereum (EVM), Hardhat, Ganache, Truffle, Alchemy, Ethers 
+- Blockchain/web3 environment: Ethereum (EVM), Hardhat, Foundry, Ganache, Truffle, Alchemy, Thirdweb, Ethers 
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomasdev5832&theme=tokyonight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thomasdev5832&theme=tokyonight&utcOffset=-3)|
 |---|---|
