@@ -1,6 +1,7 @@
 ### Gabriel Thome - Full-Stack Developer | Software Engineer 💻
 
 - 🏆 1x Top Quality Project Winner Chainlink Hackathon
+- 🏆 1st place Blockchain.Rio Hackathon
 - Full Stack: JavaScript/TypeScript | React | Next | Node | Express | NestJS | TypeORM | PostgreSQL | MongoDB 
 - Blockchain/web3: Solidity | Ethereum (EVM) | Hardhat | Foundry | Alchemy | Thirdweb | Ethers 
 
